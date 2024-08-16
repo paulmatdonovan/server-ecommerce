@@ -1,0 +1,39 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "description": "iPhone Stand",
+            "title": "a title",
+            "image": "https://onedrive.live.com/?cid=61CB2A15F110DF78&id=61CB2A15F110DF78%21108281&parId=61CB2A15F110DF78%21108262&o=OneUp",
+            "price": 22.99
+        },
+        {
+            "id": "2",
+            "description": "Keyboard",
+            "title": "a title",
+            "image": "/home/paul/Development/code/phase-2/json-server-ecommerce/images/Creative Design (1).jpg",
+            "price": 45.99
+        },
+        {
+            "id": "3",
+            "description": "a title",
+            "title": "a title",
+            "image": "images/1.jpg",
+            "price": 25.00
+        }
+    ],
+    "users": [
+        {
+            "firstName": "1",
+            "surname": "a comment about post 1",
+            "email": "1",
+            "password": 1
+        },
+        {
+            "id": "2",
+            "surname": "another comment about post 1",
+            "email": "1",
+            "password": 1
+        }
+    ]
+}
